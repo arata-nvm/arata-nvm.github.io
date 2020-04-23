@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja-jp">
 <head>
-	<meta name="generator" content="Hugo 0.69.0" />
     <meta charset="utf-8">
     <link crossorigin="anonymous" media="all"
         rel="stylesheet"
@@ -10,7 +9,7 @@
         rel="stylesheet" href="https://arata-nvm.me/css/github.css" />
     <meta name="viewport" content="width=device-width">
 
-    <title>Arata</title>
+    <title>Tags - Arata</title>
 
     <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://arata-nvm.me/images/favicon.ico">
     <meta name="theme-color" content="#1e2327">
@@ -196,12 +195,15 @@ if (!doNotTrack) {
 
 
 <div class="col-lg-9 col-md-8 col-12 float-md-left pl-md-2">
-    <div class="UnderlineNav width-full user-profile-nav js-sticky top-0">
+    <div class="UnderlineNav width-full user-profile-nav top-0 is-placeholder"
+        style="visibility: hidden; display: none; height: 56px;"></div>
+    <div class="UnderlineNav width-full user-profile-nav js-sticky top-0"
+        style="position: static; top: 0px; left: 330.5px; width: 911.5px;">
         <nav class="UnderlineNav-body" data-pjax aria-label="User profile">
-            <a aria-current="page" class="UnderlineNav-item mr-0 mr-md-1 mr-lg-3 selected " href="https://arata-nvm.me/">
+            <a aria-current="page" class="UnderlineNav-item mr-0 mr-md-1 mr-lg-3 " href="https://arata-nvm.me/">
                 Overview
             </a>
-            <a class="UnderlineNav-item mr-0 mr-md-1 mr-lg-3 " href="https://arata-nvm.me/posts/">
+            <a class="UnderlineNav-item mr-0 mr-md-1 mr-lg-3 selected" href="https://arata-nvm.me/posts/">
                 Posts
                 <span class="Counter hide-lg hide-md hide-sm">
                     0
@@ -212,27 +214,20 @@ if (!doNotTrack) {
             </a>
         </nav>
     </div>
-    <div class="position-relative">
-        <div class="mt-4">
-            <div class="js-pinned-items-reorder-container">
-                <h2 class="f4 mb-2 text-normal">
-                    Pinned
-                </h2>
 
-                <ol class="d-flex flex-wrap list-style-none gutter-condensed mb-4 js-pinned-items-reorder-list">
-                    
-                </ol>
-            </div>
+    <div class="position-relative">
+        <div id="user-repositories-list">
+            <ul data-filterable-for="your-repos-filter" data-filterable-type="substring">
+                
+            </ul>
+            
         </div>
-        <div id="pinned-items-modal-wrapper"></div>
     </div>
-</div>
 </div>
 
 
     </main>
 </div>
-
 
   <div class="footer container-lg width-full p-responsive" role="contentinfo">
     <div
