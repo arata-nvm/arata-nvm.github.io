@@ -90,6 +90,7 @@ import Item from './components/Item.svelte';
 			<li>2020/07 <b>SecHack365</b> 学習駆動コース 坂井ゼミ</li>
       <li>2020/11 <b>KOSENセキュリティコンテスト2020</b> helix 7th</li>
       <li>2020/11 <b>パソコン甲子園2020</b> プログラミング部門 本選</li>
+			<li>2021/03 <b>中国地区高専コンピュータフェスティバル</b> アプリケーション部門 審査員賞</li>
 		</ul>
 	</Item>
 
