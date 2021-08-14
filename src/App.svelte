@@ -65,7 +65,7 @@
 		<ul>
 			<li>Twitter: <a href="https://twitter.com/arata_nvm">arata_nvm</a></li>
 			<li>GitHub: <a href="https://github.com/arata-nvm">arata-nvm</a></li>
-			<li>Blog: <a href="https://arata-nvm.me/blog">$ sleep infinity</a></li>
+			<li>Blog: <a href="https://arata-nvm.tech/blog">$ sleep infinity</a></li>
 		</ul>
 	</Item>
 
