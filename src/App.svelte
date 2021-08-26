@@ -69,7 +69,7 @@
 		</ul>
 	</Item>
 
-	<Item header="Affilations">
+	<Item header="Affiliations">
 		<ul>
 			<li>津山工業高等専門学校 - 総合理工学科 情報システム系 (2019/04-)</li>
 
