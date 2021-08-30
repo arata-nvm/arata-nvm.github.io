@@ -78,9 +78,7 @@
 
 	<Item header="Likes">
 		<ul>
-			<li>Physics</li>
 			<li>Mathematics</li>
-			<li>Cyber Security</li>
 			<li>Reverse Engineering</li>
 			<li>Low-Level Programming</li>
 			<li>CTF(Team: helix, <a href="https://ctftime.org/team/71813">KUDoS</a>)</li>
