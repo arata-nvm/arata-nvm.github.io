@@ -85,8 +85,6 @@
 		</ul>
 	</Item>
 
-
-
 	<Item header="Skills">
 		<ul>
 			<li>Language: Rust, Go, Python</li>
@@ -126,8 +124,6 @@
 			<li><b>AutoProxy</b> An app that automatically changes the proxy settings in Windows 10</li>
 		</ul>
 	</Item>
-
-
 </main>
 
 <footer>
