@@ -29,7 +29,7 @@
 </main>
 
 <footer>
-	<small>© 2021 arata.</small>
+	<small>© 2021 Arata.</small>
 </footer>
 
 <style>
