@@ -25,7 +25,7 @@
 	<Contacts />
 	<Likes />
 	<Activities />
-	<Works />
+	<!-- <Works /> -->
 </main>
 
 <footer>
