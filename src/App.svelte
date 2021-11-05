@@ -7,10 +7,6 @@
 
 <svelte:head>
 	<title>Arata</title>
-	<meta
-		name="google-site-verification"
-		content="Zvni4vmMa8E2Jt6X5tjAXXB-F02ZelcJqdupaEKRZR4"
-	/>
 	<link
 		href="https://fonts.googleapis.com/css?family=Noto+Serif+JP:400,700&display=swap"
 		rel="stylesheet"
