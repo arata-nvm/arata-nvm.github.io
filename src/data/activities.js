@@ -24,6 +24,7 @@ export default [
       { date: "2021/08", name: "セキュリティ・キャンプ全国大会2021", desc: "Cトラック & Y-Ⅲトラック" },
       { date: "2021/10", name: "第32回全国高専プログラミングコンテスト", desc: "競技部門" },
       { date: "2021/11", name: "NRI Secure NetWars 2021", desc: "4th" },
+      { date: "2021/11", name: "パソコン甲子園2021", desc: "プログラミング部門 本選" },
     ]
   },
 ];
