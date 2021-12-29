@@ -13,12 +13,8 @@
 </Card>
 
 <style>
-  dt {
-    float: left;
-  }
-  dd::before {
-    content: "-";
-    color: gray;
-    margin: 0 0.5em;
+  dd {
+    margin-inline-start: 0;
+    margin-bottom: 5px;
   }
 </style>
