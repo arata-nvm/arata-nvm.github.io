@@ -27,4 +27,10 @@ export default [
       { date: "2021/11", name: "パソコン甲子園2021", desc: "プログラミング部門 本選" },
     ]
   },
+  {
+    year: "2022",
+    items: [
+      { date: "2022/03", name: "CognitiveHack Japan 2022", desc: "3rd" },
+    ]
+  },
 ];
