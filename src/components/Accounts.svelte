@@ -1,11 +1,11 @@
 <script>
   import Card from "./Card.svelte";
-  import contacts from "../data/contacts";
+  import accounts from "../data/accounts";
 </script>
 
-<Card title="Contacts">
+<Card title="Accounts">
   <ul>
-    {#each contacts as item}
+    {#each accounts as item}
       <li>{item.title}: <a href={item.link}>{item.name}</a></li>
     {/each}
   </ul>

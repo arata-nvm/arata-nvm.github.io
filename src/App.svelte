@@ -1,6 +1,6 @@
 <script>
+	import Accounts from "./components/Accounts.svelte";
 	import Activities from "./components/Activities.svelte";
-	import Contacts from "./components/Contacts.svelte";
 	import Likes from "./components/Likes.svelte";
 	import Works from "./components/Works.svelte";
 </script>
@@ -22,7 +22,7 @@
 </header>
 
 <main>
-	<Contacts />
+	<Accounts />
 	<Likes />
 	<Activities />
 	<Works />
