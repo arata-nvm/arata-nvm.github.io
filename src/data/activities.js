@@ -30,6 +30,7 @@ export default [
   {
     year: "2022",
     items: [
+      { date: "2022/03", name: "電子情報通信学会 ジュニア＆学生ポスターセッション", desc: "「安価なVR機器を用いた民族舞踊保存手法の検討」" },
       { date: "2022/03", name: "CognitiveHack Japan 2022", desc: "3rd" },
     ]
   },
