@@ -18,3 +18,12 @@
     </ul>
   {/each}
 </Card>
+
+<style>
+  h3 {
+    margin-bottom: 0;
+  }
+  ul {
+    margin-top: 0;
+  }
+</style>
