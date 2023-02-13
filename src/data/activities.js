@@ -36,4 +36,11 @@ export default [
       { date: "2022/11", name: "NRI Secure NetWars 2022", desc: "1st" },
     ]
   },
+  {
+    year: "2023",
+    items: [
+      { date: "2023/02", name: "SECCON CTF 2022 Domestic Finals", desc: "3rd" },
+    ]
+
+  }
 ];
